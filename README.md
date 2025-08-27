@@ -46,5 +46,3 @@ danieljaramillo@example.com
 ---
 
 *Thanks for visiting! Feel free to explore, give feedback, or connect with me.*  
-
-/ticket-triage-automation/
